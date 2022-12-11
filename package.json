@@ -1,0 +1,19 @@
+{
+  "name": "nodejsfs",
+  "version": "1.0.0",
+  "description": "File system module in nodejs",
+  "main": "openfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamnakul133/nodejsFs.git"
+  },
+  "author": "nakul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamnakul133/nodejsFs/issues"
+  },
+  "homepage": "https://github.com/iamnakul133/nodejsFs#readme"
+}
